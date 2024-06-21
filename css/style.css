@@ -1,0 +1,16 @@
+:root{
+    --bs-secondary-rgb: 247,248,249;
+}
+
+.container{
+    max-width: 1200px;
+}
+
+.top .btn{
+    border-radius: 0;
+    padding: 5px 40px;
+}
+
+.navbar-nav .nav-link.active{
+    color: #1e73be;
+}
